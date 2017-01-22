@@ -57,8 +57,8 @@ App will be running on http://localhost:3000
 
 
 ## Future Goals<br>
-Working with a database.<br>
-Implementing RESTful services and angular-testing<br>
+<ul>Working with a database.</ul><br>
+<ul>Implementing RESTful services and angular-testing</ul><br>
 
 
 
