@@ -1,1 +1,2 @@
-# ConFusion---Restaurant-App-AngularJS-
+AngularJS course offered by The Hong Kong University of Science and Technology
+
